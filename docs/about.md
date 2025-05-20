@@ -1,0 +1,1 @@
+This is where you would put details about your website, this is also how you have dedicated pages in your website.
