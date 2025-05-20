@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/hugo-blog-template"
 contentDir = "../docs"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
@@ -72,7 +72,7 @@ theme = "terminal"
       [languages.en.params.logo]
         logoText = "Hugo blog template"
         itentifier = "Welcome"
-        logoHomeLink = "/"
+        logoHomeLink = "/hugo-blog-template"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
